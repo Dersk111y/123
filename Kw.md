@@ -1,3 +1,4 @@
+![Logo Git](Git-Logo-2Color.png)
 # Работа с Git и Github
 
 ## 1. Установка Git 
